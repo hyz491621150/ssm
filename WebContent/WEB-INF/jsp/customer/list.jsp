@@ -31,7 +31,7 @@
 			<td>真实姓名</td>
 			<td>客户密码</td>
 			<td>注册时间</td>
-			<td>具体操作</td>
+			<td>操作</td>
 		</tr>
 		<c:forEach var="m" items="${page.result}">	
 			<tr>
