@@ -30,7 +30,7 @@
 			<td>显示名称</td>
 			<td>真实姓名</td>
 			<td>客户密码</td>
-			<td>时间</td>
+			<td>注册时间</td>
 			<td>操作</td>
 		</tr>
 		<c:forEach var="m" items="${page.result}">	
